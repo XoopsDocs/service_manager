@@ -1,14 +1,14 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module XXX
-#### for XOOPS 2.5.7
+# XOOPS Service Manager
+#### for XOOPS 2.6.0
       
 ![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
-© 2014 The XOOPS Project (www.xoops.org)    
+© 2015 The XOOPS Project (www.xoops.org)    
 
 ## Module Purpose 
 
