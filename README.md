@@ -4,18 +4,11 @@
 # XOOPS Service Manager
 #### for XOOPS 2.6.0
       
-![logoModule.png](en/assets/logoModule.png)
-            
-## User Manual
+           
+## Tutorial
 
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))   
 
-## Module Purpose 
-
-This module is for .....
-
-![image001.png](en/assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
 
 ## How to Contribute
 
@@ -25,16 +18,21 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Service Manager Evolution](book/1install.md)
+* [Service Manager](book/2administration.md)
+ * Service Manager Connection
+ * Code Simplification
+* [Service Manager Components](book/3preferences.md)
+ * Service Provider
+ * Registering a Service Provider
+ * Service Provider Implementation
+ * Service Contract Example
+ * Using a Service
+ * Response Object
+ * Contract Methods and Response Objects
+ * Lazy Service Location
+ * Service Manager Administration
+* [Future of Service Manager](book/4operations.md)
 
 ##License:
 
