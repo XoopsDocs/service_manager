@@ -2,11 +2,11 @@
 ```php
 namespace Xoops\Core\Service; 
 ```
-||||
-|--|--|--|
+|File|Class Type|Description|
+|---|---|---|
 |AbstractContract.php |Abstract Class |Contract boilerplate |
 |Manager.php |Class |Manages service providers |
-|NullProvider.php |Class Provider used when no provider is installed |
+|NullProvider.php |Class| Provider used when no provider is installed |
 |Provider.php |Class |Basic Provider support |
 |Response.php |Class |Response used by all service providers |
 
