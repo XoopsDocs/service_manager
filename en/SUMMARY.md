@@ -1,12 +1,22 @@
-# Table of Content
+# Summary
 
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
+* [Introduction](README.md)
+* [Service Manager Evolution](book/1install.md)
+* [Service Manager](book/service-manager.md)
+    * Service Manager Connection
+    * Code Simplification
+* [Service Manager Components](book/3preferences.md)
+    * [Service Provider](book/service-provider.md)
+    * [Registering a Service Provider](book/registering-a-service-provider.md)
+    * [Service Provider Implementation](book/service-provider-implementation.md)
+    * [Service Contract Example](book/service-contract-example.md)
+    * [Using a Service](book/using-service.md)
+    * [Response Object](book/response-object.md)
+    * [Contract Methods and Response Objects](book/contract-methods-and-response-objects.md)
+    * [Lazy Service Location](book/lazy-service-location.md)
+    * [Service Manager Administration](book/service-manager-administration.md)
+* [Future of Service Manager](book/future-of-service-manager.md)
 * [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
-* [Module Credits](book/9credits.md)
+* [Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
+

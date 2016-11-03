@@ -4,18 +4,14 @@
 # XOOPS Service Manager
 #### for XOOPS 2.6.0
       
-![logoModule.png](en/assets/logoModule.png)
-            
-## User Manual
+           
+## Tutorial
+
+This document is an introduction to **Service Manager** in [XOOPS CMS](http://xoops.org) Environment, in the upcoming [new version of XOOPS CMS](https://github.com/XOOPS/XoopsCore)
+
 
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))   
 
-## Module Purpose 
-
-This module is for .....
-
-![image001.png](en/assets/image001.png)
-*Figure 1: Main view of the XXX Module (Admin side)*
 
 ## How to Contribute
 
@@ -25,16 +21,24 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
+* [Service Manager Evolution](en/book/1install.md)
+* [Service Manager](en/book/service-manager.md)
+ * Service Manager Connection
+ * Code Simplification
+* [Service Manager Components](en/book/service-manager-components.md)
+ * [Service Provider](en/book/service-provider.md)
+ * [Registering a Service Provider](en/book/registering-a-service-provider.md)
+ * [Service Provider Implementation](en/book/service-provider-implementation.md)
+ * [Service Contract Example](en/book/service-contract-example.md)
+ * [Using a Service](en/book/using-service.md)
+ * [Response Object](en/book/response-object.md)
+ * [Contract Methods and Response Objects](en/book/contract-methods-and-response-objects.md)
+ * [Lazy Service Location](en/book/lazy-service-location.md)
+ * [Service Manager Administration](en/book/service-manager-administration.md)
+* [Future of Service Manager](en/book/future-of-service-manager.md)
+* [Credits](en/book/9credits.md)
 * [About XOOPS CMS](en/book/10aboutxoops.md)
+
 
 ##License:
 
