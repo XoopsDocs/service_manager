@@ -29,3 +29,4 @@ However, there are potential benefits to separation that were not realized:
 * Each time the service is used, the calling code must check to see if module is installed 
 * Usage generally requires intimate knowledge of the service internals
 
+![](../assets/servicemanager001.png)
