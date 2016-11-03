@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Service Manager Evolution](book/1install.md)
-* [Service Manager](book/2administration.md)
+* [Service Manager](book/service-manager.md)
     * Service Manager Connection
     * Code Simplification
 * [Service Manager Components](book/3preferences.md)
@@ -15,8 +15,8 @@
     * [Contract Methods and Response Objects](book/contract-methods-and-response-objects.md)
     * [Lazy Service Location](book/lazy-service-location.md)
     * [Service Manager Administration](book/service-manager-administration.md)
-* [Future of Service Manager](book/4operations.md)
+* [Future of Service Manager](book/future-of-service-manager.md)
 * [The User Side](book/5userside.md)
-* [Tutorial Credits](book/9credits.md)
+* [Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 

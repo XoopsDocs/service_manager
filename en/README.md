@@ -34,25 +34,24 @@ Editing the book can be done either by updating the markdown files with a text e
 # Table of Content
 
 * [Service Manager Evolution](book/1install.md)
-* [Service Manager](book/2administration.md)
+* [Service Manager](book/service-manager.md)
  * Service Manager Connection
  * Code Simplification
-* [Service Manager Components](book/3preferences.md)
- * Service Provider
- * Registering a Service Provider
- * Service Provider Implementation
- * Service Contract Example
- * Using a Service
- * Response Object
- * Contract Methods and Response Objects
- * Lazy Service Location
- * Service Manager Administration
-* [Future of Service Manager](book/4operations.md)
-
+* [Service Manager Components](book/service-manager-components.md)
+ * [Service Provider](book/service-provider.md)
+ * [Registering a Service Provider](book/registering-a-service-provider.md)
+ * [Service Provider Implementation](book/service-provider-implementation.md)
+ * [Service Contract Example](book/service-contract-example.md)
+ * [Using a Service](book/using-service.md)
+ * [Response Object](book/response-object.md)
+ * [Contract Methods and Response Objects](book/contract-methods-and-response-objects.md)
+ * [Lazy Service Location](book/lazy-service-location.md)
+ * [Service Manager Administration](book/service-manager-administration.md)
+* [Future of Service Manager](book/future-of-service-manager.md)
+* [Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
-
-
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
