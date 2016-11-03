@@ -1,1 +1,3 @@
-# 9.0 Module Credits
+# 9.0 Tutorial Credits
+
+This tutorial was created by [Richard Griffith (aka Geekwright)](https://github.com/geekwright/)
