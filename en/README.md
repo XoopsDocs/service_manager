@@ -48,6 +48,7 @@ Editing the book can be done either by updating the markdown files with a text e
  * [Lazy Service Location](book/lazy-service-location.md)
  * [Service Manager Administration](book/service-manager-administration.md)
 * [Future of Service Manager](book/future-of-service-manager.md)
+* [Feedback](book/feedback.md)
 * [Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 
