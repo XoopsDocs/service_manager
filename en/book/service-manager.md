@@ -15,6 +15,8 @@ To achieve the full benefit of the separation, XOOPS 2.6.0 alpha 3 introduced a 
 * No need to check for a specific module 
 * If the service is not available, that status is returned just like any other error condition.
 
+![](../assets/servicemanager002.png)
+
 
 ### Code Simplification 
 
