@@ -11,7 +11,7 @@ Version 1.0
 
 ## Tutorial
 
-This document is an introduction to Service Manager in [XOOPS CMS](http://xoops.org) Environment, in the upcoming [new version of XOOPS CMS](https://github.com/XOOPS/XoopsCore)
+This document is an introduction to **Service Manager** in [XOOPS CMS](http://xoops.org) Environment, in the upcoming [new version of XOOPS CMS](https://github.com/XOOPS/XoopsCore)
 
 © 2016 XOOPS Project ([www.xoops.org](http://xoops.org))
 
