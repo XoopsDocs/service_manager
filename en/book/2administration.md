@@ -18,7 +18,7 @@ To achieve the full benefit of the separation, XOOPS 2.6.0 alpha 3 introduced a 
 
 ### Code Simplification 
 
-Direct Module Connection 
+**Direct Module Connection **
 
 ```php
 if ($xoops->isActiveModule('notifications')) {
@@ -27,7 +27,7 @@ if ($xoops->isActiveModule('notifications')) {
 }
 ```
 
-Service Manager Connection
+**Service Manager Connection**
 
 ```php
 $xoops->service('Notify')->triggerEvent('global', 0, 'category_created', $tags);
