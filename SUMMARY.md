@@ -16,6 +16,7 @@
  * [Lazy Service Location](en/book/lazy-service-location.md)
  * [Service Manager Administration](en/book/service-manager-administration.md)
 * [Future of Service Manager](en/book/future-of-service-manager.md)
+* [Feedback](en/book/feedback.md)
 * [Credits](en/book/9credits.md)
 * [About XOOPS CMS](en/book/10aboutxoops.md)
 
