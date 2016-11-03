@@ -4,6 +4,8 @@
 
 * For more complex cases use the services section in the administration area
 
+![](../assets/servicemanager003.png)
+
 
 
 
