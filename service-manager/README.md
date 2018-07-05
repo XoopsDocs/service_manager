@@ -1,26 +1,23 @@
-# 2.0 Service Manager 
+# Service Manager
 
-To achieve the full benefit of the separation, XOOPS 2.6.0 alpha 3 introduced a **Service Manager** component. 
+To achieve the full benefit of the separation, XOOPS 2.6.0 alpha 3 introduced a **Service Manager** component.
 
 * Services located by **service name**, not provider 
 * **Service interface** established by Contract 
 * Returns a standardized Response object that includes **result, status and messages**
 
-
-
-###  Service Manager Connection 
+## Service Manager Connection
 
 * Request is based on a well known interface 
 * Actual provider does not matter to caller 
 * No need to check for a specific module 
 * If the service is not available, that status is returned just like any other error condition.
 
-![](../assets/servicemanager002.png)
+![](../.gitbook/assets/servicemanager002.png)
 
+## Code Simplification
 
-### Code Simplification 
-
-**Direct Module Connection **
+**Direct Module Connection** 
 
 ```php
 if ($xoops->isActiveModule('notifications')) {
@@ -34,7 +31,4 @@ if ($xoops->isActiveModule('notifications')) {
 ```php
 $xoops->service('Notify')->triggerEvent('global', 0, 'category_created', $tags);
 ```
-
-
-
 

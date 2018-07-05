@@ -1,4 +1,4 @@
-### Using a Service
+# Using a Service
 
 ```php
 // get Xoops object
@@ -15,5 +15,5 @@ $avatar = $response->getValue();
 
 // all together
 $avatar = $xoops->service('Avatar')->getAvatarUrl($user)->getValue();
-
 ```
+

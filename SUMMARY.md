@@ -1,25 +1,22 @@
-# Table of Content
+# Table of contents
 
 * [Introduction](README.md)
-* [Service Manager Evolution](en/book/1install.md)
-* [Service Manager](en/book/service-manager.md)
- * Service Manager Connection
- * Code Simplification
-* [Service Manager Components](en/book/service-manager-components.md)
- * [Service Provider](en/book/service-provider.md)
- * [Registering a Service Provider](en/book/registering-a-service-provider.md)
- * [Service Provider Implementation](en/book/service-provider-implementation.md)
- * [Service Contract Example](en/book/service-contract-example.md)
- * [Using a Service](en/book/using-service.md)
- * [Response Object](en/book/response-object.md)
- * [Contract Methods and Response Objects](en/book/contract-methods-and-response-objects.md)
- * [Lazy Service Location](en/book/lazy-service-location.md)
- * [Service Manager Administration](en/book/service-manager-administration.md)
-* [Future of Service Manager](en/book/future-of-service-manager.md)
-* [Feedback](en/book/feedback.md)
-* [Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
-
-
-
+* [Service Manager Evolution](service-manager-evolution.md)
+* [Service Manager](service-manager/README.md)
+  * [Service Manager Connection](service-manager/service-manager-connection.md)
+  * [Code Simplification](service-manager/code-simplification.md)
+* [Service Manager Components](service-manager-components/README.md)
+  * [Service Provider](service-manager-components/service-provider.md)
+  * [Registering a Service Provider](service-manager-components/registering-a-service-provider.md)
+  * [Service Provider Implementation](service-manager-components/service-provider-implementation.md)
+  * [Service Contract Example](service-manager-components/service-contract-example.md)
+  * [Using a Service](service-manager-components/using-a-service.md)
+  * [Response Object](service-manager-components/response-object.md)
+  * [Contract Methods and Response Objects](service-manager-components/contract-methods-and-response-objects.md)
+  * [Lazy Service Location](service-manager-components/lazy-service-location.md)
+  * [Service Manager Administration](service-manager-components/service-manager-administration.md)
+* [Future of Service Manager](future-of-service-manager.md)
+* [Feedback](feedback.md)
+* [Credits](credits.md)
+* [About XOOPS CMS](about-xoops-cms.md)
 

@@ -1,6 +1,4 @@
-### Registering a Service Provider
-
-
+# Registering a Service Provider
 
 Avatar preload example:
 
@@ -23,3 +21,4 @@ $provider->register($object);
 }
 }
 ```
+

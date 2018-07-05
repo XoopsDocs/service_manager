@@ -1,6 +1,6 @@
-### Service Provider Implementation 
+# Service Provider Implementation
 
-Avatar example: 
+Avatar example:
 
 ```php
 use Xoop\sCore\Service\Abstract\Contract; 

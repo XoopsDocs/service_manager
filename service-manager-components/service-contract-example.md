@@ -1,4 +1,4 @@
-### Service Contract Example
+# Service Contract Example
 
 ```php
 namespace Xoops\Core\Service\Contract;
@@ -24,5 +24,5 @@ public function getAvatarUrl($response, $userinfo);
 public function getAvatarEditUrl($response, $userinfo);
 
 }
-
 ```
+
